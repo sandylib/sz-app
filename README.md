@@ -8,7 +8,7 @@ npm install sz-storybook
 ```
 
 ## Docs
-[Component documentation](http://coryhouse.github.io/ps-react)
+[Component documentation](https://sandywebdesigner.github.io/sz-app/)
 
 ## Component Hall of Fame 🎉
 Here's a list of components built by your fellow viewers!
